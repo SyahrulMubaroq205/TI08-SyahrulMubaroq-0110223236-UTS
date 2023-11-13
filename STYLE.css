@@ -1,0 +1,29 @@
+.body{
+    width: 700px;
+    margin: 80px auto;
+    height: 100%;
+    max-width: 700px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.form-control{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.nama{
+    display: inline-block;
+    width: 130px;
+    height: 20px;
+    padding: 5px;
+}
+.regis{
+    text-align: center;
+}
+.daftar{
+    background-color: blue;
+    color: white;
+}
+.batal{
+    background-color: red;
+    color: white;
+}
